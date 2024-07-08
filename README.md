@@ -34,3 +34,8 @@ To install InTheShade:
 **Have any other question?** -> [Start a Discussion](https://github.com/Terabyte1385/InTheShade/discussions)
 
 **Do you know how to code and want to help develop the project?** -> Open the project in Xcode and create [pull requests](https://github.com/Terabyte1385/InTheShade/pull)
+
+## Q&A
+
+### Is InTheShade available for iPhone or iPad?
+**No.** While all required frameworks are available on iPhone and iPad as well, the method used to open a new Private tab on macOS doesn't work on iOS. Distribution would be much more difficult as well, requiring users to sideload or compile the project themselves.
