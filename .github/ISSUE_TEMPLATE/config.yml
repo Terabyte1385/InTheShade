@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Not something that fits in any of these?
+    url: https://github.com/Terabyte1385/InTheShade/discussions
+    about: Then you don't need to open an issue. Open a discussion instead to talk about anything else.
