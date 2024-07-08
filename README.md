@@ -25,8 +25,9 @@ However, InTheShade works with macOS Monterey (12) or later.
 ## Installation
 To install InTheShade:
 - Go to [Releases](https://github.com/Terabyte1385/InTheShade/releases)
-- Download the `InTheShade.app` file
-- Launch from anywhere (recommended that you move InTheShade to the Applications folder for easy access)
+- Download the `InTheShade.app.zip` file
+- Uncompress the downloaded file - you will get `InTheShade.app`
+- Launch `InTheShade.app` from anywhere (recommended that you move InTheShade to the Applications folder for easy access)
 
 ## Contributing
 **Have an issue or feature request?** -> Check [issues](https://github.com/Terabyte1385/InTheShade/issues/) and [create a new one](https://github.com/Terabyte1385/InTheShade/issues/new) if there isn't one matching your query.
