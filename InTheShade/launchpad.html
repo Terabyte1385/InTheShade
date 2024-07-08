@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html><head>
+    <title>InTheShade Launchpad</title>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style type="text/css">
+        body {
+            background-color: #1a1a1a;
+            margin: 0;
+            padding: 0;
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        }
+        div {
+            width: 600px;
+            margin: 5em auto;
+            padding-top: 0%;
+            padding: 1em 2em;
+            background-color: #363636;
+            border-radius: 0.5em;
+            box-shadow: 2px 3px 7px 2px rgba(0, 0, 0, 0.02);
+        }
+        .navDiv {
+            width: 500px;
+            height: 55px;
+            background-color: #363636;
+            margin: 0.5 auto;
+            text-align: center;
+            box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+        }
+        .regularLink:link,
+        .regularLink:visited {
+            color: #4ca8ff;
+            padding-bottom: 15px;
+            text-decoration: none;
+        }
+        .navLink {
+            color: #4ca8ff;
+            text-decoration: none;
+            padding-left: 10px;
+        }
+        h1, p {
+            filter: invert(100%);
+        }
+        hr {
+            border: 0;
+            border-top: 1px solid gray;
+            opacity: 25%;
+            padding-top: 25px;
+        }
+        .item {
+            flex: 1;
+        }
+        #navcontainer {
+            width: auto;
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            text-align: center;
+            margin: auto;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .btn {
+                background-color: #bebebe23;
+                border: 2px solid #bebebe;
+                color: rgb(255, 255, 255);
+                padding: 4px 15px;
+                font-size: 12px;
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                margin: 4px 2px;
+                cursor: pointer;
+                border-radius: 32px;
+            }
+    </style>
+    <script>
+        console.warn("WARNING! DO NOT USE THE WEB CONSOLE ON ANY WEBSITE IF YOU DON'T KNOW WHAT YOU'RE DOING! An attacker may be telling you to paste malicious code as part of an attack called Self-XSS. Learn more: https://en.wikipedia.org/wiki/Self-XSS")
+    </script>
+</head>
+<body>
+    <div>
+        <h1>You're now in the shade</h1>
+        <button class="btn" onclick="window.open('favorites://', '_blank');">+ New Private Tab</button>
+        <p>&nbsp;</p>
+        <p>InTheShade ran successfully and has started a private browsing session for you.</p>
+        <p>You can safely close this tab if you have launched another private tab using either the buttons above or the ⌘ + T shortcut.</p>
+        <p>&nbsp;</p>
+        <link><a class="regularLink" href="https://github.com/Terabyte1385/InTheShade" target="_blank">Give InTheShade a star on
+            GitHub</a>
+        <h1></h1>
+        <link><a class="regularLink" href="https://github.com/Terabyte1385/InTheShade/releases/latest" target="_blank">Download the latest
+            version</a>
+        <p>&nbsp;</p>
+        <hr>
+        <div id="navcontainer" class="navDiv" style="padding-bottom: 10px;">
+            <p>Launched by InTheShade (version 1.0)</p>
+            <div id="paddingNav" style="max-width: 0px;"></div>
+            <link\><a class="navLink" href="https://github.com/Terabyte1385/InTheShade" target="_blank">View on GitHub</a>
+        </link\></div>
+    </div>
+
+
+</body></html>

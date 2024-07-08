@@ -11,6 +11,7 @@
 		280A1CCD2C3B256D00F4D202 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 280A1CCC2C3B256D00F4D202 /* ContentView.swift */; };
 		280A1CCF2C3B256E00F4D202 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 280A1CCE2C3B256E00F4D202 /* Assets.xcassets */; };
 		280A1CD22C3B256E00F4D202 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 280A1CD12C3B256E00F4D202 /* Preview Assets.xcassets */; };
+		2824F3D32C3C489F00129510 /* launchpad.html in Resources */ = {isa = PBXBuildFile; fileRef = 2824F3D22C3C489F00129510 /* launchpad.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		280A1CCE2C3B256E00F4D202 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		280A1CD12C3B256E00F4D202 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		280A1CD32C3B256E00F4D202 /* InTheShade.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = InTheShade.entitlements; sourceTree = "<group>"; };
+		2824F3D22C3C489F00129510 /* launchpad.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = launchpad.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				280A1CCA2C3B256D00F4D202 /* InTheShadeApp.swift */,
 				280A1CCC2C3B256D00F4D202 /* ContentView.swift */,
 				280A1CCE2C3B256E00F4D202 /* Assets.xcassets */,
+				2824F3D22C3C489F00129510 /* launchpad.html */,
 				280A1CD32C3B256E00F4D202 /* InTheShade.entitlements */,
 				280A1CD02C3B256E00F4D202 /* Preview Content */,
 			);
@@ -129,6 +132,7 @@
 			files = (
 				280A1CD22C3B256E00F4D202 /* Preview Assets.xcassets in Resources */,
 				280A1CCF2C3B256E00F4D202 /* Assets.xcassets in Resources */,
+				2824F3D32C3C489F00129510 /* launchpad.html in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
