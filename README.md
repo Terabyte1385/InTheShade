@@ -40,3 +40,6 @@ To install InTheShade:
 
 ### Is InTheShade available for iPhone or iPad?
 **No.** While all required frameworks are available on iPhone and iPad as well, the method used to open a new Private tab on macOS doesn't work on iOS. Distribution would be much more difficult as well, requiring users to sideload or compile the project themselves.
+
+### Is InTheShade dangerous or harmful to my OS?
+**No.** All InTheShade does is launch a login prompt, just like other apps like Twingate and ChatGPT do. Just that the URL is a local webpage for which users can launch a new tab which happens to be also in Private Browsing. (devs can choose to show their login portals in Private Browsing)
