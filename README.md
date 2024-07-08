@@ -18,8 +18,8 @@ However, InTheShade works with macOS Monterey (12) or later.
 | Sonoma ¹⁴ | &#9745; Supported | &#9745; Yes |
 | Ventura ¹³ | &#9745; Supported | &#9746; No |
 | Monterey ¹² | &#9745; Supported | &#9746; No |
-| Big Sur ¹¹ | &#9745; Supported | &#9746; No |
-| Catalina ¹⁰~¹⁵ | &#9745; Supported | &#9746; No |
+| Big Sur ¹¹ | &#9746; Unsupported | - |
+| Catalina ¹⁰~¹⁵ | &#9746; Unsupported | - |
 | High Sierra ¹⁰~¹⁴ | &#9746; Unsupported | - |
 
 ## Installation
