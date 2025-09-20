@@ -14,6 +14,7 @@ However, InTheShade works with macOS Monterey (12) or later.
 
 | macOS Version | Compatibility | Tested |
 | ------------- | ------------- | ------ |
+| Tahoe ²⁶ | &#9745; Supported | &#9745; Yes |
 | Sequoia ¹⁵ | &#9745; Supported | &#9745; Yes |
 | Sonoma ¹⁴ | &#9745; Supported | &#9745; Yes |
 | Ventura ¹³ | &#9745; Supported | &#9746; No |
